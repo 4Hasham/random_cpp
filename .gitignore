@@ -1,3 +1,5 @@
+.vscode
+./libgraph-1.0.2/
 ./cal
 ./huff.cpp
 ./main.cpp
